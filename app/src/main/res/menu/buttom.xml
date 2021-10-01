@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Ambulance"
+        android:icon="@drawable/ic_baseline_campaign_24"
+        android:title="Ambulance"/>
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_outline_home_24"
+        android:title="Home"/>
+    <item
+        android:id="@+id/Oxygen"
+        android:icon="@drawable/ic_outline_medical"
+        android:title="Oxygen"/>
+    <item
+        android:id="@+id/announcement"
+        android:icon="@drawable/covid"
+        android:title="Announcement"/>
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/virus_logo"
+        android:title="Profile"/>
+
+</menu>
